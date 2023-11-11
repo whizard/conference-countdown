@@ -1,0 +1,26 @@
+[
+    {
+        "begin": "2023-09-09T13:34:00-06:00",
+        "duration": 2,
+        "name": "Best talk in the world - Bob Bob",
+        "tracks": [
+            "A"
+        ]
+    },
+    {
+        "begin": "2023-09-09T13:36:00-06:00",
+        "duration": 2,
+        "name": "Career development: - Mickey Mouse",
+        "tracks": [
+            "A"
+        ]
+    },
+    {
+        "begin": "2023-09-09T13:40:00-06:00",
+        "duration": 5,
+        "name": "AI strengths and weaknesses - Smart Smith",
+        "tracks": [
+            "B"
+        ]
+    }
+]
